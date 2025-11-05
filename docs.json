@@ -1,0 +1,111 @@
+{
+  "name": "Gridix",
+  "theme": "mint",
+  "logo": {
+    "light": "/images/logo/gridix_black_logo.svg",
+    "dark": "/images/logo/gridix_white_logo.svg"
+  },
+  "favicon": "../web/public/favicon.ico",
+  "colors": {
+    "primary": "#000000",
+    "light": "#ffffff",
+    "dark": "#000000"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "https://t.me/gridix_bot"
+    }
+  ],
+  "topbarCtaButton": {
+    "type": "link",
+    "name": "Начать",
+    "url": "https://gridix.live/auth"
+  },
+  "anchors": [
+    {
+      "name": "Discord",
+      "icon": "slack",
+      "url": "https://t.me/gridix_bot"
+    }
+  ],
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "intro",
+              "getting-started/registration",
+              "getting-started/first-project",
+              "getting-started/dashboard-overview"
+            ]
+          },
+          {
+            "group": "Admin Panel",
+            "pages": [
+              "admin-panel/overview",
+              "admin-panel/settings",
+              "admin-panel/managers",
+              "admin-panel/branding"
+            ]
+          },
+          {
+            "group": "Projects",
+            "pages": [
+              "projects/creation",
+              "projects/editing",
+              "projects/apartments",
+              "projects/visualization",
+              "projects/pricing"
+            ]
+          },
+          {
+            "group": "Leads",
+            "pages": [
+              "leads/overview",
+              "leads/management"
+            ]
+          },
+          {
+            "group": "CRM Integrations",
+            "pages": [
+              "crm-integrations/amocrm"
+            ]
+          },
+          {
+            "group": "Widgets",
+            "pages": [
+              "widgets/embedding"
+            ]
+          },
+          {
+            "group": "Custom Domains",
+            "pages": [
+              "domains/setup"
+            ]
+          },
+          {
+            "group": "Subscriptions",
+            "pages": [
+              "subscriptions/plans",
+              "subscriptions/managing"
+            ]
+          },
+          {
+            "group": "Partner Program",
+            "pages": [
+              "partners/overview",
+              "partners/types"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footerSocials": {
+    "telegram": "https://t.me/gridix_bot"
+  }
+}
