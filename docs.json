@@ -11,6 +11,24 @@
     "light": "#ffffff",
     "dark": "#000000"
   },
+  "languages": {
+    "en": {
+      "name": "English",
+      "path": "en"
+    },
+    "ge": {
+      "name": "ქართული",
+      "path": "ge"
+    },
+    "ru": {
+      "name": "Русский",
+      "path": "ru"
+    },
+    "ar": {
+      "name": "العربية",
+      "path": "ar"
+    }
+  },
   "topbarLinks": [
     {
       "name": "Support",
@@ -19,8 +37,8 @@
   ],
   "topbarCtaButton": {
     "type": "link",
-    "name": "Начать",
-    "url": "https://gridix.live/auth"
+    "name": "Get Started",
+    "url": "https://gridix.app"
   },
   "anchors": [
     {
