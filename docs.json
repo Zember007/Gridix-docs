@@ -5,7 +5,7 @@
     "light": "/images/logo/gridix_black_logo.svg",
     "dark": "/images/logo/gridix_white_logo.svg"
   },
-  "favicon": "../web/public/favicon.ico",
+  "favicon": "/images/logo/favicon.ico",
   "colors": {
     "primary": "#000000",
     "light": "#ffffff",
