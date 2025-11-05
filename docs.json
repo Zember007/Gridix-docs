@@ -16,17 +16,9 @@
       "name": "English",
       "path": "en"
     },
-    "ge": {
-      "name": "ქართული",
-      "path": "ge"
-    },
     "ru": {
       "name": "Русский",
       "path": "ru"
-    },
-    "ar": {
-      "name": "العربية",
-      "path": "ar"
     }
   },
   "topbarLinks": [
